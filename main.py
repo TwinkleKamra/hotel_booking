@@ -59,7 +59,7 @@ if hotel.available():
     else:
         print("There was a problem with Payment")
 else:
-    print("Hotel is not free")
+    print("Sorry! Hotel is not free")
 
 # if hotel.available():
 #     name = input("Enter your name: ")
